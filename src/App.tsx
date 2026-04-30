@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Trophy, CheckCircle2, ImageIcon, Navigation, Puzzle, PenTool, MousePointerClick } from 'lucide-react';
+import { Trophy, CheckCircle2, Image as ImageIcon, Navigation, Puzzle, PenTool, MousePointerClick } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
 const AdditionActivity = () => {
